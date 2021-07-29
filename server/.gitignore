@@ -3,6 +3,7 @@
 # custom/manual
 .DS_Store
 Backups/
+.env
 
 # dependencies
 /node_modules
